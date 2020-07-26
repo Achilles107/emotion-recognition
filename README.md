@@ -1,3 +1,3 @@
 # emotion-recognition
 
-detect emotions fro text
+detect emotions from text
