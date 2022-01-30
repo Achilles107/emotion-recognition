@@ -6,6 +6,7 @@
   - [Overview](#overview)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Result of classifier](#result-of-classifier)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
@@ -26,7 +27,7 @@ In this project, we have used NLP for predicting the emotions based on the messa
 - pandas
 - fastai
 
-# created classifier
+### Result of classifier
 
 ![alt text](images/output_one.png)
 
