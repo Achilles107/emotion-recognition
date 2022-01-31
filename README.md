@@ -21,6 +21,10 @@ In this project, we have used NLP for predicting the emotions based on the messa
 
 ## My process
 
+- You can save your model in .pkl file, which can be integrated in other webapps or mobile applications.
+- Below is the link for .pkl file for trained model.
+- [PKL file link](https://drive.google.com/file/d/1VqTczoGdhLwJX-fTPEXWw1HGOrA-VDOX/view?usp=sharing)
+
 ### Built with
 
 - Python 3
