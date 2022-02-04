@@ -11,7 +11,7 @@
 - [Author](#author)
 
 
-## The challenge
+## The challenge 
 
 Create a program to determine the understanding of Natural Language processing and machine learning skills. Handson experience on Jupyter Notebook code.
 
